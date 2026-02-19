@@ -1,0 +1,1 @@
+just replace files.catbox.moe with cdn.lunaui.cc and you're done!!
